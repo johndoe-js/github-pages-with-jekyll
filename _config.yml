@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
+title: Article No.1 : A milestone for a project that will never come fully to fruition
+author: John Doe
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This site? The best site there has ever been and the best site that ever will be. There's all kind of content on here,
+  and approximately 67% is amazing. Is there any sort of consistent theme to it? Nah, not really. But that makes it open
+  to include more people's interest and be even more amazing. 
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  johndoe-js # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
