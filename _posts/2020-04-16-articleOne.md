@@ -1,3 +1,8 @@
+---
+title: "THE FIRST CAPTAIN'S LOG"
+date: 2020-04-16
+---
+
 Captain's Log: 16-04-2020 0:29
 
 It's been quite a day, one of learning and lack of work in humanities classes, which is something I can get behind. I further
